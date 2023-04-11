@@ -1,2 +1,0 @@
-create a end point in gin which get a csv file and name in post values we need to open the csv file and store the data which only contain email and give the reference to that 
-save that csv data as single  in db and reference a name object 
