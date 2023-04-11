@@ -1,5 +1,5 @@
-./q.txt
-./go.mod
-./go.sum
-./env
-./*.csv
+/q.txt
+/go.mod
+/go.sum
+/env
+/*.csv
